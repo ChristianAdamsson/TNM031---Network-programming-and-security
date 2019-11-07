@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\chris\OneDrive\Desktop\TNM031 - Nätverk\.metadata\.plugins\org.eclipse.jdt.core
+87111012.index
